@@ -7,9 +7,9 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 ## 📂 Repository Contents
 
 - **http.txt**: A list of HTTP proxies.
-- Total http Proxy: 81339
+- Total http Proxy: 81301
 - **https.txt** (if available): A list of HTTPS proxies.
-- Total http Proxy: 81339
+- Total http Proxy: 81301
 
 ---
 
@@ -44,3 +44,5 @@ This repository is licensed under the **MIT License**. See the `LICENSE` file fo
 ## 🌟 Support
 
 If you find this project useful, please ⭐ the repository and share it with others!
+
+Total Proxies: 81301
