@@ -9,6 +9,7 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 - **http.txt**: A list of HTTP proxies.
 - Total http Proxy: 81339
 - **https.txt** (if available): A list of HTTPS proxies.
+- Total http Proxy: 81339
 
 ---
 
