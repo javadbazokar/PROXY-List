@@ -7,7 +7,6 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 ## 📂 Contents
 
 - **http.txt**: A list of HTTP proxies ➡️ Total http Proxy: 105423 ⬅️
-## <tab><tab><code> https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
 - **https.txt**: A list of HTTPS proxies ➡️ Total https Proxy: 16980 ⬅️
 
 ---
@@ -21,6 +20,7 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 ---
 
 ## 🛠️ Usage
+<tab><tab><code> https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
 
 1. **Download the Proxy List:** You can directly download the `http.txt` or `https.txt` files.
 2. **Automation:** Use these files in your scripts or applications for automated tasks.
