@@ -6,8 +6,8 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 
 ## 📂 Contents
 
-- **http.txt**: A list of HTTP proxies ➡️ Total http Proxy: 105551 ⬅️
-- **https.txt**: A list of HTTPS proxies ➡️ Total https Proxy: 16823 ⬅️
+- **http.txt**: A list of HTTP proxies.
+- **https.txt**: A list of HTTPS proxies.
 
 ---
 
@@ -22,10 +22,12 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 ## 🌎 Link Proxies
 
 ### http
+➡️ Total http Proxy: 105551 ⬅️
 
     https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
 
 ### https
+➡️ Total https Proxy: 16823 ⬅️
 
     https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/https.txt
 
