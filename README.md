@@ -21,7 +21,7 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 
 ## 🛠️ Usage
 ##
-<tab><tab>https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
+    https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
 
 1. **Download the Proxy List:** You can directly download the `http.txt` or `https.txt` files.
 2. **Automation:** Use these files in your scripts or applications for automated tasks.
