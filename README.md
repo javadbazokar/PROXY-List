@@ -6,8 +6,8 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 
 ## 📂 Contents
 
-- **http.txt**: A list of HTTP proxies. (IP:PORT)
-- **https.txt**: A list of HTTPS proxies. (IP:PORT)
+- **http.txt**: A list of HTTP proxies. (Server:Port)
+- **https.txt**: A list of HTTPS proxies. (Server:Port)
 
 ---
 
