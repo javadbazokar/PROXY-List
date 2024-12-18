@@ -21,11 +21,11 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 
 ## 🛠️ Usage
 
-# http Proxy List txt RAW Link
+### http Proxy List txt RAW Link
 
         https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
 
-# https Proxy List txt RAW Link
+### https Proxy List txt RAW Link
 
     https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/https.txt
 
