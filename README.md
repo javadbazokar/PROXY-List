@@ -1,1 +1,44 @@
-# PROXY-List
+# Proxy List Collector 🌐
+
+This repository provides a comprehensive and up-to-date list of HTTP and HTTPS proxies, optimized for reliability and efficiency. The proxies are automatically updated, and duplicate entries are removed to ensure a clean and unique list.
+
+---
+
+## 📂 Repository Contents
+
+- **http.txt**: A list of HTTP proxies.
+- **https.txt** (if available): A list of HTTPS proxies.
+
+---
+
+## 🚀 Features
+
+- **Automatic Updates:** Proxy files are updated regularly to include the latest proxies.
+- **Duplicate Removal:** Ensures a clean and unique list by removing duplicate entries.
+- **Easy Access:** Proxy files are simple to download and use.
+
+---
+
+## 🛠️ Usage
+
+1. **Download the Proxy List:** You can directly download the `http.txt` or `https.txt` files.
+2. **Automation:** Use these files in your scripts or applications for automated tasks.
+3. **Validation:** It is recommended to validate the proxies before usage.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements or would like to report an issue, feel free to open a **Pull Request** or **Issue**.
+
+---
+
+## 📜 License
+
+This repository is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+---
+
+## 🌟 Support
+
+If you find this project useful, please ⭐ the repository and share it with others!
