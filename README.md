@@ -46,3 +46,4 @@ This repository is licensed under the **MIT License**. See the `LICENSE` file fo
 If you find this project useful, please ⭐ the repository and share it with others!
 
 Total Proxies: 81301
+Total https Proxy: 13990
