@@ -1,4 +1,4 @@
-# Proxy List Collector 🌐
+# ✅ Proxy List Collector 🌐
 
 This repository provides a comprehensive and up-to-date list of HTTP and HTTPS proxies, optimized for reliability and efficiency. The proxies are automatically updated, and duplicate entries are removed to ensure a clean and unique list.
 
