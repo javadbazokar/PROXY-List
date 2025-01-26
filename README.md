@@ -22,7 +22,7 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
 ## 🌎 Link Proxies
 
 ### http
-➡️ Total http Proxy: 1265276 ⬅️
+➡️ Total http Proxy: 1265521 ⬅️
 
     https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
 
