@@ -27,7 +27,7 @@ This repository provides a comprehensive and up-to-date list of HTTP and HTTPS p
     https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt
 
 ### https
-➡️ Total https Proxy: 9237 ⬅️
+➡️ Total https Proxy: 8913 ⬅️
 
     https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/https.txt
 
